@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wen-ro-he.github.io</id>
-    <title>文·和&apos;s  blog</title>
-    <updated>2020-02-29T10:12:51.743Z</updated>
+    <title>wenhe&apos;s  blog</title>
+    <updated>2020-02-29T10:23:10.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wen-ro-he.github.io"/>
     <link rel="self" href="https://wen-ro-he.github.io/atom.xml"/>
     <subtitle>木秀于林，风必摧之</subtitle>
     <logo>https://wen-ro-he.github.io/images/avatar.png</logo>
     <icon>https://wen-ro-he.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 文·和&apos;s  blog</rights>
+    <rights>All rights reserved 2020, wenhe&apos;s  blog</rights>
     <entry>
         <title type="html"><![CDATA[对“三国杀十周年”的一些看法]]></title>
         <id>https://wen-ro-he.github.io/post/dui-san-guo-sha-shi-zhou-nian-de-yi-xie-kan-fa/</id>
