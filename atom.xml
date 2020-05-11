@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wen-ro-he.github.io</id>
-    <title>孺子牛小组照片墙</title>
-    <updated>2020-05-11T14:04:49.908Z</updated>
+    <title>孺子牛官网</title>
+    <updated>2020-05-11T14:16:49.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wen-ro-he.github.io"/>
     <link rel="self" href="https://wen-ro-he.github.io/atom.xml"/>
@@ -11,5 +11,14 @@
 组员名单：蔡润彤、李可航、王思琪、吴亦博、吴钲瑶</subtitle>
     <logo>https://wen-ro-he.github.io/images/avatar.png</logo>
     <icon>https://wen-ro-he.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 孺子牛小组照片墙</rights>
+    <rights>All rights reserved 2020, 孺子牛官网</rights>
+    <entry>
+        <title type="html"><![CDATA[声明]]></title>
+        <id>https://wen-ro-he.github.io/post/sheng-ming/</id>
+        <link href="https://wen-ro-he.github.io/post/sheng-ming/">
+        </link>
+        <updated>2020-05-11T14:15:03.000Z</updated>
+        <content type="html"><![CDATA[<p>本网页为长沙市中雅培粹学校1910班孺子牛小组的官方网站，照片和消息都在本网站上发布。</p>
+]]></content>
+    </entry>
 </feed>
