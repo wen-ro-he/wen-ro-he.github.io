@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wen-ro-he.github.io</id>
     <title>孺子牛·官网</title>
-    <updated>2020-05-24T01:47:32.943Z</updated>
+    <updated>2020-06-15T15:41:56.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wen-ro-he.github.io"/>
     <link rel="self" href="https://wen-ro-he.github.io/atom.xml"/>
@@ -12,6 +12,17 @@
     <logo>https://wen-ro-he.github.io/images/avatar.png</logo>
     <icon>https://wen-ro-he.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 孺子牛·官网</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-6-15活动照片]]></title>
+        <id>https://wen-ro-he.github.io/post/2020-6-15-huo-dong-zhao-pian/</id>
+        <link href="https://wen-ro-he.github.io/post/2020-6-15-huo-dong-zhao-pian/">
+        </link>
+        <updated>2020-06-15T15:33:19.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wen-ro-he.github.io/post-images/1592235356595.jpg" alt="" loading="lazy"></figure>
+<p>6.15是组员李可航同学生日</p>
+<p>上图从左到右依次为李衎（非组员）、胡涵墨（非组员），李可航，吴亦博（组员），冯钰达（前组员）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-5-18  活动照片]]></title>
         <id>https://wen-ro-he.github.io/post/2020-5-20-huo-dong-zhao-pian/</id>
