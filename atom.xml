@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wen-ro-he.github.io</id>
     <title>孺子牛·官网</title>
-    <updated>2020-06-20T05:09:01.117Z</updated>
+    <updated>2020-06-23T16:40:32.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wen-ro-he.github.io"/>
     <link rel="self" href="https://wen-ro-he.github.io/atom.xml"/>
@@ -13,6 +13,19 @@
     <icon>https://wen-ro-he.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 孺子牛·官网</rights>
     <entry>
+        <title type="html"><![CDATA[2020-1-8 活动照片]]></title>
+        <id>https://wen-ro-he.github.io/post/2020-1-8-xiao-zu-huo-dong/</id>
+        <link href="https://wen-ro-he.github.io/post/2020-1-8-xiao-zu-huo-dong/">
+        </link>
+        <updated>2020-06-23T16:33:12.000Z</updated>
+        <content type="html"><![CDATA[<p>1月8日为期末考试后一天，小组成员聚会。</p>
+<figure data-type="image" tabindex="1"><img src="https://wen-ro-he.github.io/post-images/1592930059047.png" alt="" loading="lazy"></figure>
+<p>如图为电影院中照片，左至右依次为李可航、李泓儒、蔡润彤、刘康雅（非组员）、王思琪、吴钲瑶、妈钰达（前组员）、吴亦博。</p>
+<figure data-type="image" tabindex="2"><img src="https://wen-ro-he.github.io/post-images/1592930211778.png" alt="" loading="lazy"></figure>
+<p>如图为火锅店照片，左至右为李可航、冯钰达（前组员）、吴钲瑶、李泓儒、吴亦博、蔡润彤、刘康雅（非组员）、王思琪。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小组介绍（待更）]]></title>
         <id>https://wen-ro-he.github.io/post/xiao-zu-jie-shao-dai-geng/</id>
         <link href="https://wen-ro-he.github.io/post/xiao-zu-jie-shao-dai-geng/">
@@ -20,7 +33,14 @@
         <updated>2020-06-20T04:25:10.000Z</updated>
         <content type="html"><![CDATA[<p>组长：李泓儒<br>
 组员（按学号排名）：蔡润彤、李可航、王思琪、吴亦博、吴钲瑶<br>
-小组理念：</p>
+小组理念：<br>
+成员介绍：<br>
+李泓儒：<br>
+蔡润彤：<br>
+李可航：号文和。幽默开朗，乐观调皮。组内技术员，网站搭建者。<br>
+王思琪：<br>
+吴亦博：字浩龙，号科教居士，喜欢听歌、吃鸡、创造奇迹、搞笑。<br>
+吴钲瑶：</p>
 ]]></content>
     </entry>
     <entry>
